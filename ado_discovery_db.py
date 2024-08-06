@@ -132,8 +132,8 @@ def insert_statistics(connection, statistics, project_name):
 def connect_to_database():
     conn = psycopg2.connect(
         dbname="jiratoadodb",
-        user="postgres",
-        password="0000",
+        user="",
+        password="",
         host="40.117.145.14",
         port="5432"
     )
