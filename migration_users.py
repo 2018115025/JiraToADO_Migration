@@ -5,7 +5,7 @@ from requests.auth import HTTPBasicAuth
 # Azure DevOps organization and project details
 organization = "dhanushv"
 project_name = "Newt CAMPP1"  # Replace with your project name
-
+# pat = ""  #ADO Personal Access Token
 
 # Users to be added
 users = [

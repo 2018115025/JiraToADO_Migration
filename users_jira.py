@@ -4,6 +4,7 @@ import pandas as pd
 # JIRA configurations
 JIRA_BASE_URL = 'https://newtglobal.atlassian.net'
 JIRA_USERNAME = 'dhanushv@newtglobalcorp.com'  # Your JIRA username (email)
+# JIRA_API_TOKEN = ''  # Your JIRA API token
 JIRA_PROJECT_KEY = 'CAMPP'  # The project key in JIRA
 
 # Function to fetch all roles for a project
